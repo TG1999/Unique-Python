@@ -34,3 +34,5 @@ Program to let users play Rock Paper Scissor with computer.
 - Install python3.
 - Clone the repository.
 - Run the python programs in your own PC.
+
+[![Build Status](https://travis-ci.org/TG1999/Unique-Python.svg?branch=master)](https://travis-ci.org/TG1999/Unique-Python)
